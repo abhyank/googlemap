@@ -1,1 +1,1 @@
-# googlemap
+print 'Hello World'
